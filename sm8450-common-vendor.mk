@@ -817,7 +817,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.rcsuce-V1.2-java \
     vendor.qti.ims.rcsuceaidlservice-V1-java \
     android.hardware.security.keymint-service-qti.xml \
-    c2_manifest_vendor.xml \
     c2_manifest_vendor_audio.xml \
     dataconnection-saidl.xml \
     manifest_android.hardware.drm@1.4-service.widevine.xml \
