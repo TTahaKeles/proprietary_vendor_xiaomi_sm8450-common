@@ -337,7 +337,7 @@ need to be added just before the end of it's major group. -->
     <!-- sched2 major start -->
     <Major OpcodeValue="0xF" />
         <Minor OpcodeValue="0x0" Node="/proc/sys/walt/sched_asymcap_boost" />
-        <Minor OpcodeValue="0x1" Node="/dev/cpuset/camera-daemon/cpus" />
+        <Minor OpcodeValue="0x1" Node="/dev/cpuset/camera-daemon/cpus" Supported="no" />
         <Minor OpcodeValue="0x2" Node="/dev/cpuset/camera-background/cpus" />
         <Minor OpcodeValue="0x3" Node="/dev/cpuctl/background/cpu.shares" />
         <Minor OpcodeValue="0x4" Node="/dev/cpuctl/camera-daemon/cpu.shares" />
